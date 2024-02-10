@@ -1,0 +1,153 @@
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\appsettings.Development.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\appsettings.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.exe
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.deps.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.runtimeconfig.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.pdb
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.AssemblyReference.cache
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfoInputs.cache
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfo.cs
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CoreCompileInputs.cache
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.Demo_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo_Project.props
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo_Project.props
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo_Project.props
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\scopedcss\bundle\Demo_Project.styles.css
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CopyComplete
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\refint\Demo_Project.dll
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.pdb
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.genruntimeconfig.cache
+D:\R54\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\ref\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.exe
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.deps.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.runtimeconfig.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Demo_Project.pdb
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.AssemblyReference.cache
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfoInputs.cache
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfo.cs
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CoreCompileInputs.cache
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.Demo_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\scopedcss\bundle\Demo_Project.styles.css
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CopyComplete
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\refint\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.pdb
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\Demo_Project.genruntimeconfig.cache
+C:\Users\Zahirul Islam\Desktop\Zahirul\Demo_Project\Demo_Project\obj\Debug\net8.0\ref\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Demo_Project.exe
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Demo_Project.deps.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Demo_Project.runtimeconfig.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Demo_Project.pdb
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.AssemblyReference.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfoInputs.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfo.cs
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CoreCompileInputs.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.Demo_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\scopedcss\bundle\Demo_Project.styles.css
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CopyComplete
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\refint\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.pdb
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\Demo_Project.genruntimeconfig.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\obj\Debug\net8.0\ref\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject\Demo_Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Demo_Project.exe
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Demo_Project.deps.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Demo_Project.runtimeconfig.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Demo_Project.pdb
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.AssemblyReference.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfoInputs.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.AssemblyInfo.cs
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CoreCompileInputs.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.Demo_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo_Project.props
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\scopedcss\bundle\Demo_Project.styles.css
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.csproj.CopyComplete
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\refint\Demo_Project.dll
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.pdb
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\Demo_Project.genruntimeconfig.cache
+C:\Users\Zahirul Islam\Desktop\DemoProject5\Demo_Project\obj\Debug\net8.0\ref\Demo_Project.dll
